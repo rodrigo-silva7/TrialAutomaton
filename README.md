@@ -1,6 +1,7 @@
 # TrialAutomaton
 
 
+versão atual: 0.1
 
 Trial Automaton é um bot para o programa de mensagens instantâneas para gamers chamado Discord.
 
